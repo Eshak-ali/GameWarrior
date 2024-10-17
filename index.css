@@ -74,7 +74,7 @@ nav {
 }
 
 
-.back-img {
+.back-img-0 {
     background-image: url("./img/one.jpg");
     background-size: cover;
     background-attachment: fixed;
@@ -82,7 +82,7 @@ nav {
     background-blend-mode: color-dodge;
 }
 
-.back-img1 {
+.back-img-1 {
     background-image: url("./img/two.jpg");
     background-size: cover;
     background-attachment: fixed;
@@ -90,7 +90,7 @@ nav {
     background-blend-mode: color-dodge;
 }
 
-.back-img2 {
+.back-img-2 {
     background-image: url("./img/three.jpg");
     background-size: cover;
     background-attachment: fixed;

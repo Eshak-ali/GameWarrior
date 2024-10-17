@@ -7,7 +7,7 @@ html{
 }
 .sect-1{
     height: 100vh;
-    background-image: url("/img/home.jpg");
+    background-image: url("./img/home.jpg");
     background-color: rgba(4, 35, 2, 0.1);
     background-blend-mode:color-dodge;
     background-repeat: no-repeat;
